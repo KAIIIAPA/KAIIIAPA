@@ -8,6 +8,10 @@
 
 ###
 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/kaiiiapa)
+
+###
+
 <p align="left">Я начинающий Backend разработчик. Мой путь в it начался с онлайн-школы Urban University, где я завершил курс Python-разработчик! В настоящий момент нахожусь в поиске работы!<br>
 
 ###
