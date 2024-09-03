@@ -24,16 +24,21 @@
 <h4 align="left">Дипломный проект Urban University: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h5>
   
 - [Проект на Django](https://github.com/KAIIIAPA/django_project_dp.git)
+ 
   Стек: python, Django, djangorestframework, MySQL, ORM,  CSS, HTML
   
 - [Проект на Flask](https://github.com/KAIIIAPA/Flask_project_db.git)
+
   Стек:﻿ python, Flask, Flask-Admin, Flask-Login, SQLAlchemy(MySQL), CSS, HTML
   
-- [Проект на FastAPI](https://github.com/KAIIIAPA/FastAPI_project_db.git) Стек: python, FastAPI, SQLAlchemy(MySQL), CSS, HTML, также в данном проекте проведён анализ и сравнения данных фреймворков.
+- [Проект на FastAPI](https://github.com/KAIIIAPA/FastAPI_project_db.git) , также в данном проекте проведён анализ и сравнения данных фреймворков.
+
+  Стек: python, FastAPI, SQLAlchemy(MySQL), CSS, HTML
 
 <h4 align="left">Мини проекты</h4>
 
 - [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
+
   Стек: python, numpy, pandas 
 
 ###
