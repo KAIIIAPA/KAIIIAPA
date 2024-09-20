@@ -35,7 +35,7 @@
 
   Стек: python, FastAPI, SQLAlchemy(MySQL), CSS, HTML
 
-<h4 align="left">Мини проекты</h4>
+<h4 align="left">Доп проекты</h4>
 
 - [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
 
