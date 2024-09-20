@@ -39,7 +39,11 @@
 
 - [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
 
-  Стек: python, numpy, pandas 
+  Стек: python, numpy, pandas
+
+- [Приложение для хранения данных](https://github.com/KAIIIAPA/cloud_files.git)
+
+  Стек: python, Django, djangorestframework, MySQL, ORM, HTML
 
 ###
 
