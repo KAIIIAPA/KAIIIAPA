@@ -21,6 +21,20 @@
 ###
 <h3 align="left">📕 Мои проекты</h3>
 
+<h4 align="left">Проекты</h4>
+
+- [API для управления складом](https://github.com/KAIIIAPA/development_for_warehouse_managment.git)
+
+  Стек: python, FastAPI, SQLAlchemy, PostgreSQL, Docker, Docker-compose
+
+- [Приложение для хранения данных](https://github.com/KAIIIAPA/cloud_files.git)
+
+  Стек: python, Django, djangorestframework, MySQL, ORM, HTML
+
+- [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
+
+  Стек: python, numpy, pandas
+
 <h4 align="left">Дипломный проект Urban University: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h5>
   
 - [Проект на Django](https://github.com/KAIIIAPA/django_project_dp.git)
@@ -34,16 +48,6 @@
 - [Проект на FastAPI](https://github.com/KAIIIAPA/FastAPI_project_db.git) , также в данном проекте проведён анализ и сравнения данных фреймворков.
 
   Стек: python, FastAPI, SQLAlchemy(MySQL), CSS, HTML
-
-<h4 align="left">Доп проекты</h4>
-
-- [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
-
-  Стек: python, numpy, pandas
-
-- [Приложение для хранения данных](https://github.com/KAIIIAPA/cloud_files.git)
-
-  Стек: python, Django, djangorestframework, MySQL, ORM, HTML
 
 ###
 
@@ -61,6 +65,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ###
