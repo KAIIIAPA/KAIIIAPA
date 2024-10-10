@@ -35,6 +35,10 @@
 
   Стек: python, numpy, pandas
 
+- [Анализ и визуализация данных об акциях](https://github.com/KAIIIAPA/pj_for_analyzing_data)
+
+  Стек: python, pandas, matplotlib, plotly, yfinance
+
 <h4 align="left">Дипломный проект Urban University: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h5>
   
 - [Проект на Django](https://github.com/KAIIIAPA/django_project_dp.git)
