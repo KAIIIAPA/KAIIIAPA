@@ -39,6 +39,10 @@
 
   Стек: python, pandas, matplotlib, plotly, yfinance
 
+- [Программа для создания изображений на основе TKinter](https://github.com/KAIIIAPA/tkinter_project)
+
+  Стек: python, tkinter, pillow
+
 <h4 align="left">Дипломный проект Urban University: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h5>
   
 - [Проект на Django](https://github.com/KAIIIAPA/django_project_dp.git)
