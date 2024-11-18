@@ -43,6 +43,10 @@
 
   Стек: python, tkinter, pillow
 
+- [Многофункциональный телеграм-бот](https://github.com/KAIIIAPA/tg_bot)
+
+  Cтек: python, telebot, pillow
+
 <h4 align="left">Дипломный проект Urban University: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h5>
   
 - [Проект на Django](https://github.com/KAIIIAPA/django_project_dp.git)
